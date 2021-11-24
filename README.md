@@ -6,6 +6,13 @@
 
   Refactor globalstate to replace it with redux. 
 
+  Screenshot:
+  ![whispering-reaches-17835 herokuapp com_](https://user-images.githubusercontent.com/84820751/143317937-97e83f44-a217-48b4-82cc-979e28f35e21.png)
+
+  Deployed link:
+
+  https://whispering-reaches-17835.herokuapp.com/
+
   ## Table of Contents
 
   -[Installation](#installation)
